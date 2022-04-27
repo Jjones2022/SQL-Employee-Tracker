@@ -1,8 +1,5 @@
 # SQL-Employee-Tracker
 A easy interactive app that allows the user to track the roles and titles of employees
-# SQL Employee Tracker
-
-This is an interactive app that allows the user to easily locate, make changes, and view the updated roles of employees.
 
 ## Installation
 
