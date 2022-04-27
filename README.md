@@ -24,7 +24,7 @@ node server.js
 ```python
 The gif file below shows an example of how the application should look.
 
-<div style="padding:54.17% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/703502192?h=3a2b809c26&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="New Recording - 4/26/2022, 7:31:43 PM"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+![SQL Employee Tracker](https://user-images.githubusercontent.com/100435801/165413153-733b57b4-8f55-45a7-a536-eebfb65bd4fe.gif)
 ```
 
 ## Contributing
